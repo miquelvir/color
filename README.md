@@ -1,5 +1,5 @@
 # color
-a simple color viewer
+a simple color viewer for browser color viewing in other projects
 
 visit https://miquelvir.github.io/color/[hex_code] to view the color
 
